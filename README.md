@@ -14,18 +14,6 @@ This project is built on .NET 8 and follows Clean Architecture principles, emplo
 - **Fluent Validation:** Declarative validation rules to ensure data integrity and consistency.
 - **Swagger API:** Interactive API documentation and testing through Swagger UI.
 
-## Getting Started
-
-These instructions will help you set up and run the project locally.
-
 ### Prerequisites
 
 - .NET 8 SDK
-- (Any other dependencies or prerequisites specific to your project)
-
-### Installation
-
-1. **Clone the repository:**
-
-   ```sh
-   git clone https://github.com/your-username/your-project.git
