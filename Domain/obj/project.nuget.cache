@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cHZN+n+RKWH8GFczPRVxK1eLNesydt5VlTi6xJcIOBUBLFkvX1vpyc3c//PsOyIiihSVUvZZmU4nom3rqGlMeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javia\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\javia\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\javia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

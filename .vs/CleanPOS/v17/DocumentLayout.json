@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD441C53-6622-4559-976F-0F045F509F4A}|WebAPI\\WebAPI.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD441C53-6622-4559-976F-0F045F509F4A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD441C53-6622-4559-976F-0F045F509F4A}|WebAPI\\WebAPI.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\webapi\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD441C53-6622-4559-976F-0F045F509F4A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\infrastructure\\persistence\\migrations\\20240504104508_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\migrations\\20240504104508_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\infrastructure\\persistence\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD441C53-6622-4559-976F-0F045F509F4A}|WebAPI\\WebAPI.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD441C53-6622-4559-976F-0F045F509F4A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD441C53-6622-4559-976F-0F045F509F4A}|WebAPI\\WebAPI.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\webapi\\presentationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD441C53-6622-4559-976F-0F045F509F4A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\presentationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD441C53-6622-4559-976F-0F045F509F4A}|WebAPI\\WebAPI.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\webapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD441C53-6622-4559-976F-0F045F509F4A}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\application\\applicationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|solutionrelative:application\\applicationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\infrastructure\\persistence\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\infrastructure\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\domain\\valueobjects\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\domain\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|solutionrelative:domain\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\domain\\customers\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|solutionrelative:domain\\customers\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\domain\\customers\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|solutionrelative:domain\\customers\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD452DE-A80E-4355-9534-63719335A0C5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\application\\customers\\create\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|solutionrelative:application\\customers\\create\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\application\\customers\\create\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|solutionrelative:application\\customers\\create\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\application\\data\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|solutionrelative:application\\data\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\domain\\primitives\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\domain\\primitives\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\domain\\primitives\\domainevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39A125-3F7C-4AB0-B8AC-DF9A4D8BA81D}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\domainevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|c:\\users\\javia\\desktop\\cleanarchitecturev2\\cleanpos\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8C588B3-35D6-4AC1-BF3E-0FFC8D8E0146}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240504104508_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\Persistence\\Migrations\\20240504104508_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Migrations\\20240504104508_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\Persistence\\Migrations\\20240504104508_InitialMigration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Migrations\\20240504104508_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:45:34.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MigrationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\WebAPI\\Extensions\\MigrationExtensions.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Extensions\\MigrationExtensions.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\WebAPI\\Extensions\\MigrationExtensions.cs",
+              "RelativeToolTip": "WebAPI\\Extensions\\MigrationExtensions.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:12:39.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PresentationAssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\WebAPI\\PresentationAssemblyReference.cs",
+              "RelativeDocumentMoniker": "WebAPI\\PresentationAssemblyReference.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\WebAPI\\PresentationAssemblyReference.cs",
+              "RelativeToolTip": "WebAPI\\PresentationAssemblyReference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:04:01.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:47:36.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T09:56:23.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:45:38.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:30:52.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\WebAPI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\WebAPI\\DependencyInjection.cs",
+              "RelativeToolTip": "WebAPI\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:02:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:41:57.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationAssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\ApplicationAssemblyReference.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationAssemblyReference.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\ApplicationAssemblyReference.cs",
+              "RelativeToolTip": "Application\\ApplicationAssemblyReference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:38:27.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\Persistence\\Configuration\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configuration\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\Persistence\\Configuration\\CustomerConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Configuration\\CustomerConfiguration.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:04:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAnwCQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:51:50.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerId.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Customers\\CustomerId.cs",
+              "RelativeDocumentMoniker": "Domain\\Customers\\CustomerId.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Customers\\CustomerId.cs",
+              "RelativeToolTip": "Domain\\Customers\\CustomerId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:19:35.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Customers\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Customers\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Customers\\ICustomerRepository.cs",
+              "RelativeToolTip": "Domain\\Customers\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:28:25.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Customers\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Customers\\Customer.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Customers\\Customer.cs",
+              "RelativeToolTip": "Domain\\Customers\\Customer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAnwCgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:17:08.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\ValueObjects\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\PhoneNumber.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\ValueObjects\\PhoneNumber.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\PhoneNumber.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:07:38.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAewBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:34:25.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCustomerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\Customers\\Create\\CreateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Customers\\Create\\CreateCustomerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\Customers\\Create\\CreateCustomerCommandHandler.cs",
+              "RelativeToolTip": "Application\\Customers\\Create\\CreateCustomerCommandHandler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:06:45.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\Customers\\Create\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Customers\\Create\\CreateCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\Customers\\Create\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "Application\\Customers\\Create\\CreateCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:00:12.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\Data\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Application\\Data\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\Data\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Application\\Data\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:44:43.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Primitives\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Primitives\\IUnitOfWork.cs",
+              "RelativeToolTip": "Domain\\Primitives\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:58:55.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DomainEvents.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Primitives\\DomainEvents.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\DomainEvents.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Primitives\\DomainEvents.cs",
+              "RelativeToolTip": "Domain\\Primitives\\DomainEvents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:53:52.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Primitives\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\AggregateRoot.cs",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Domain\\Primitives\\AggregateRoot.cs",
+              "RelativeToolTip": "Domain\\Primitives\\AggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:53:24.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\javia\\Desktop\\CleanArchitectureV2\\CleanPOS\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T18:44:46.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
